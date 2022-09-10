@@ -44,7 +44,7 @@ function App() {
           
 
           {/* ______Formulario_____ */}
-          <div className="l-page" id="talk">
+          <div className="l-page" id="Talk">
    
             <section className="forms">
 
